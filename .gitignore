@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+Assets/BuildReports/
+Assets/BuildReports.meta
+ProjectSettings/AndroidLogcatSettings.asset
+# But not these files and directories...
+!.gitignore
+!.gitattributes
+!.editorconfig
+!Assets/
+!Packages/
+!ProjectSettings/
+!Plugins/
+!Build.rar
